@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* CSS for the table element */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* CSS for the table head element */
+thead {
+  background-color: #f2f2f2;
+}
+
+/* CSS for the table head cells */
+th {
+  padding: 10px;
+  text-align: left;
+}
+
+/* CSS for the table body cells */
+td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
+
